@@ -1,0 +1,16 @@
+{
+"companyName": "Extreme Gamers",
+"productName": "Tanks",
+"productVersion": "1.0",
+"dataUrl": "WebGL Unity Tanks!.data.unityweb",
+"wasmCodeUrl": "WebGL Unity Tanks!.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Unity Tanks!.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL Unity Tanks!.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
